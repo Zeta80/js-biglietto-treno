@@ -38,3 +38,5 @@ document.getElementById("sale").innerHTML = sale;
 console.log(price);
 //scrivo il prezzo del biglietto sul html
 document.getElementById("price").innerHTML = price;
+
+// JAVASASSONE (☞ﾟヮﾟ)☞🗿
